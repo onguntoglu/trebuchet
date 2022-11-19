@@ -1,2 +1,5 @@
 # Vagrantfile
+artifacts/**
 .vagrant/**
+
+third_party/grpc-device/cmake/build/**
